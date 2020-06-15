@@ -337,3 +337,20 @@ section .button-4:nth-chlid(1)
   padding-right: 20px;
   font-size:24;
 }
+.copyright i{
+    color: grey;
+    /*padding-top: 50px;*/
+}
+.copyright {
+    padding-bottom: 10px;
+    font-family: initial;
+    font-size: 18px;
+    font-style: italic;
+}
+.copyright a{
+    color: white;
+    text-decoration: none;    
+}
+html{
+	scroll-behavior: smooth;
+}
